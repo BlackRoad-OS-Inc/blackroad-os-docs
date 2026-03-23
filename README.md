@@ -1,3 +1,11 @@
+# blackroad-os-docs
+
+> ARCHIVED: Consolidated into BlackRoad-OS-Inc/blackroad-docs
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad OS Documentation
 
 > *The operating system for the AI age — where software adapts to humans, not the other way around.*
